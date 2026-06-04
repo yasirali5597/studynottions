@@ -1,0 +1,11 @@
+/* write your css here */
+
+html , body{
+    overflow: hidden;
+}
+
+
+.homepage_bg{
+     /* border: 5px solid red; */
+    background: url("../src/assets/Images/bghome.svg");
+}
